@@ -15,6 +15,9 @@ Chapter-6 folder contains a directory as Photogrammetry. This contains folowing 
 1. RANSAC
 2. Absolute Orientation Problem
 3. Pose Estimation- Direct Linear Transform (non-linear for noisy data will be posted later)
+4. Graph pose based SLAM
+5. Iterative Closest Point
+6. Bundle Adjustment
 
 
 Reference - Books on computer vision
